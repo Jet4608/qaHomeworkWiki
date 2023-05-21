@@ -25,7 +25,7 @@ describe("Testing the calculator", () => {
     });
   });
   
-  const calculatorr = {
+  const calculator = {
     /** Takes two numbers and adds them together.
      * @example
      * calculator.add(2, 3) == 5
