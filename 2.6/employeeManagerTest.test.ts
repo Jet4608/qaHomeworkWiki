@@ -78,5 +78,3 @@ const emmPage = new employeePage(driver)
           await emmPage.click(emmPage.saveBtn)
   })
   })
-  /* test git commit*/
-  
